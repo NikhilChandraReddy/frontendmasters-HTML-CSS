@@ -1,4 +1,17 @@
-.article-tile{
+.article-title{
     text-align: center;
     font-style:italic;
 }
+
+.artitle-main-title{
+    text-align: center;
+    font-family:fantasy;
+    font-size: 100px;
+}
+
+.article-paragraph{
+    text-align: left;
+    font-style: italic;
+    font-size: 20px;
+}
+
