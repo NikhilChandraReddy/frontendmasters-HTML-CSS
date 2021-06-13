@@ -5,6 +5,14 @@ body{
     padding: 10px;
 }
 
+.flex-container {
+    display: flex;
+    width: 100%;
+}
+
+.row{
+    flex-direction: row;
+}
 /*text styling */
 .article-main-title{
     font-family: "Snell Roundhand";
