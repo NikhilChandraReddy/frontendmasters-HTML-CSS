@@ -1,19 +1,22 @@
 * {
     box-sizing: border-box;
 }
-
+body{
+    padding: 10px;
+}
 
 /*text styling */
-.artitle-main-title{
+.article-main-title{
+    font-family: "Snell Roundhand";
+    font-weight: normal;
+    font-size: 60px;
     text-align: center;
-    font-family:fantasy;
-    font-size: 100px;
 }
 
 .article-title{
     text-align: center;
     font-style: italic;
-    font-style: normal;
+    font-weight: normal;
     font-size: 25px;
 }
 
